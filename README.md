@@ -1,3 +1,5 @@
+![logo](https://github.com/Satyam9993/Satyam9993/blob/main/glow.png)
+
 <h1 align="center">Hi 👋, I'm Satyam Katiyar</h1>
 <h3 align="center">A passionate Software Devloper from India</h3>
 
